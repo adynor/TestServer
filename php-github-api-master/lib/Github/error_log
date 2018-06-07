@@ -1,0 +1,2 @@
+[29-Sep-2016 13:41:21 UTC] PHP Fatal error:  Interface 'Github\ResultPagerInterface' not found in /home/zaireprojects/public_html/test/php-github-api-master/lib/Github/ResultPager.php on line 16
+[29-Sep-2016 13:42:16 UTC] PHP Fatal error:  Interface 'Github\ResultPagerInterface' not found in /home/zaireprojects/public_html/test/php-github-api-master/lib/Github/ResultPager.php on line 16
