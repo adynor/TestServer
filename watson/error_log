@@ -1,0 +1,89 @@
+[08-Dec-2016 10:08:24 UTC] PHP Warning:  unlink(data1.wav): No such file or directory in /home/zaireprojects/public_html/test/watson/testapi.php on line 7
+[08-Dec-2016 10:09:45 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/zaireprojects/public_html/test/watson/testapi.php on line 20
+[08-Dec-2016 10:09:46 UTC] PHP Warning:  unlink(data1.wav): No such file or directory in /home/zaireprojects/public_html/test/watson/testapi.php on line 23
+[08-Dec-2016 10:10:11 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/zaireprojects/public_html/test/watson/testapi.php on line 20
+[09-Mar-2017 10:43:16 UTC] PHP Warning:  unlink(data1.wav): No such file or directory in /home/zaireprojects/public_html/test/watson/testapi.php on line 6
+[14-Mar-2017 09:50:32 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zaireprojects/public_html/test/watson/chatbot.php on line 77
+[14-Mar-2017 09:50:55 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zaireprojects/public_html/test/watson/chatbot.php on line 77
+[14-Mar-2017 09:52:31 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zaireprojects/public_html/test/watson/chatbot.php on line 77
+[14-Mar-2017 10:00:28 UTC] PHP Warning:  curl_setopt(): 2 is not a valid cURL handle resource in /home/zaireprojects/public_html/test/watson/chatbot.php on line 91
+[14-Mar-2017 10:00:28 UTC] PHP Warning:  curl_setopt(): 2 is not a valid cURL handle resource in /home/zaireprojects/public_html/test/watson/chatbot.php on line 98
+[14-Mar-2017 10:00:28 UTC] PHP Warning:  curl_setopt(): 2 is not a valid cURL handle resource in /home/zaireprojects/public_html/test/watson/chatbot.php on line 101
+[14-Mar-2017 10:00:28 UTC] PHP Warning:  curl_setopt(): 2 is not a valid cURL handle resource in /home/zaireprojects/public_html/test/watson/chatbot.php on line 103
+[14-Mar-2017 10:00:28 UTC] PHP Warning:  curl_exec(): 2 is not a valid cURL handle resource in /home/zaireprojects/public_html/test/watson/chatbot.php on line 107
+[14-Mar-2017 10:00:28 UTC] PHP Warning:  curl_errno(): 2 is not a valid cURL handle resource in /home/zaireprojects/public_html/test/watson/chatbot.php on line 115
+[14-Mar-2017 10:00:28 UTC] PHP Warning:  curl_getinfo(): 2 is not a valid cURL handle resource in /home/zaireprojects/public_html/test/watson/chatbot.php on line 119
+[14-Mar-2017 10:00:28 UTC] PHP Warning:  curl_close(): 2 is not a valid cURL handle resource in /home/zaireprojects/public_html/test/watson/chatbot.php on line 120
+[15-Mar-2017 11:31:39 UTC] PHP Warning:  Illegal string offset 'input' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 70
+[15-Mar-2017 11:31:39 UTC] PHP Warning:  Illegal string offset 'text' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 70
+[15-Mar-2017 11:32:11 UTC] PHP Warning:  Illegal string offset 'input' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 70
+[15-Mar-2017 11:32:11 UTC] PHP Warning:  Illegal string offset 'text' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 70
+[15-Mar-2017 11:39:23 UTC] PHP Warning:  Illegal string offset 'input' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 70
+[15-Mar-2017 11:39:23 UTC] PHP Warning:  Illegal string offset 'text' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 70
+[15-Mar-2017 11:40:03 UTC] PHP Warning:  Illegal string offset 'input' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 70
+[15-Mar-2017 11:40:03 UTC] PHP Warning:  Illegal string offset 'text' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 70
+[15-Mar-2017 11:40:15 UTC] PHP Warning:  Illegal string offset 'input' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 70
+[15-Mar-2017 11:40:15 UTC] PHP Warning:  Illegal string offset 'text' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 70
+[15-Mar-2017 11:41:07 UTC] PHP Warning:  Illegal string offset 'input' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 70
+[15-Mar-2017 11:41:07 UTC] PHP Warning:  Illegal string offset 'text' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 70
+[15-Mar-2017 11:41:34 UTC] PHP Warning:  Illegal string offset 'input' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 70
+[15-Mar-2017 11:41:34 UTC] PHP Warning:  Illegal string offset 'text' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 70
+[15-Mar-2017 11:43:08 UTC] PHP Warning:  Illegal string offset 'input' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 70
+[15-Mar-2017 11:43:08 UTC] PHP Warning:  Illegal string offset 'text' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 70
+[15-Mar-2017 12:48:09 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 73
+[15-Mar-2017 12:50:34 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 73
+[15-Mar-2017 12:52:52 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 73
+[15-Mar-2017 12:52:53 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 73
+[15-Mar-2017 13:06:18 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/zaireprojects/public_html/test/watson/chatbot.php on line 76
+[15-Mar-2017 13:07:04 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/zaireprojects/public_html/test/watson/chatbot.php on line 76
+[15-Mar-2017 13:07:11 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/zaireprojects/public_html/test/watson/chatbot.php on line 76
+[15-Mar-2017 13:07:50 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/zaireprojects/public_html/test/watson/chatbot.php on line 76
+[16-Mar-2017 07:45:43 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 125
+[16-Mar-2017 07:45:49 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/zaireprojects/public_html/test/watson/chatbot.php on line 125
+[16-Mar-2017 09:50:05 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zaireprojects/public_html/test/watson/chatbot.php on line 94
+[16-Mar-2017 11:18:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/zaireprojects/public_html/test/watson/chat.php:32) in /home/zaireprojects/public_html/test/watson/chat.php on line 32
+[16-Mar-2017 11:19:33 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/zaireprojects/public_html/test/watson/chat.php on line 2
+[16-Mar-2017 11:32:40 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zaireprojects/public_html/test/watson/chatbot.php on line 97
+[16-Mar-2017 11:32:47 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zaireprojects/public_html/test/watson/chatbot.php on line 97
+[16-Mar-2017 11:39:06 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zaireprojects/public_html/test/watson/chatbot.php on line 98
+[16-Mar-2017 12:00:40 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/zaireprojects/public_html/test/watson/exitchat.php on line 6
+[16-Mar-2017 12:00:58 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/zaireprojects/public_html/test/watson/exitchat.php on line 6
+[16-Mar-2017 12:00:59 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/zaireprojects/public_html/test/watson/exitchat.php on line 6
+[16-Mar-2017 12:00:59 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/zaireprojects/public_html/test/watson/exitchat.php on line 6
+[16-Mar-2017 12:00:59 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/zaireprojects/public_html/test/watson/exitchat.php on line 6
+[16-Mar-2017 12:08:18 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/zaireprojects/public_html/test/watson/exitchat.php on line 6
+[16-Mar-2017 12:08:18 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/zaireprojects/public_html/test/watson/exitchat.php on line 6
+[16-Mar-2017 12:08:19 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/zaireprojects/public_html/test/watson/exitchat.php on line 6
+[16-Mar-2017 12:08:20 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/zaireprojects/public_html/test/watson/exitchat.php on line 6
+[16-Mar-2017 12:08:20 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/zaireprojects/public_html/test/watson/exitchat.php on line 6
+[16-Mar-2017 12:08:20 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/zaireprojects/public_html/test/watson/exitchat.php on line 6
+[16-Mar-2017 12:08:20 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/zaireprojects/public_html/test/watson/exitchat.php on line 6
+[16-Mar-2017 12:09:05 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/zaireprojects/public_html/test/watson/exitchat.php on line 6
+[16-Mar-2017 12:09:19 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/zaireprojects/public_html/test/watson/exitchat.php on line 6
+[16-Mar-2017 12:09:23 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/zaireprojects/public_html/test/watson/exitchat.php on line 6
+[17-Mar-2017 12:15:30 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zaireprojects/public_html/test/watson/chatbot.php on line 127
+[17-Mar-2017 12:15:47 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zaireprojects/public_html/test/watson/chatbot.php on line 127
+[17-Mar-2017 12:16:42 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zaireprojects/public_html/test/watson/chatbot.php on line 127
+[17-Mar-2017 12:16:45 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zaireprojects/public_html/test/watson/chatbot.php on line 127
+[17-Mar-2017 12:16:47 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zaireprojects/public_html/test/watson/chatbot.php on line 127
+[17-Mar-2017 12:19:24 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zaireprojects/public_html/test/watson/chatbot.php on line 126
+[17-Mar-2017 12:19:32 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zaireprojects/public_html/test/watson/chatbot.php on line 126
+[17-Mar-2017 12:19:59 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/zaireprojects/public_html/test/watson/chatbot.php on line 125
+[17-Mar-2017 12:20:58 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zaireprojects/public_html/test/watson/chatbot.php on line 124
+[17-Mar-2017 12:44:53 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/zaireprojects/public_html/test/watson/advanceprojectsearch.php on line 91
+[17-Mar-2017 12:45:30 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zaireprojects/public_html/test/watson/advanceprojectsearch.php on line 69
+[17-Mar-2017 12:45:30 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zaireprojects/public_html/test/watson/advanceprojectsearch.php on line 69
+[17-Mar-2017 12:45:30 UTC] PHP Warning:  include(db_config.php): failed to open stream: No such file or directory in /home/zaireprojects/public_html/test/watson/advanceprojectsearch.php on line 70
+[17-Mar-2017 12:45:30 UTC] PHP Warning:  include(): Failed opening 'db_config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zaireprojects/public_html/test/watson/advanceprojectsearch.php on line 70
+[17-Mar-2017 12:45:30 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/zaireprojects/public_html/test/watson/advanceprojectsearch.php on line 254
+[17-Mar-2017 12:45:30 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zaireprojects/public_html/test/watson/advanceprojectsearch.php on line 254
+[17-Mar-2017 12:49:48 UTC] PHP Warning:  require_once(sendmail.php): failed to open stream: No such file or directory in /home/zaireprojects/public_html/test/watson/db_config.php on line 12
+[17-Mar-2017 12:49:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'sendmail.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zaireprojects/public_html/test/watson/db_config.php on line 12
+[17-Mar-2017 12:50:37 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/zaireprojects/public_html/test/watson/advanceprojectsearch.php on line 254
+[17-Mar-2017 12:50:37 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zaireprojects/public_html/test/watson/advanceprojectsearch.php on line 254
+[17-Mar-2017 12:50:46 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/zaireprojects/public_html/test/watson/advanceprojectsearch.php on line 254
+[17-Mar-2017 12:50:46 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/zaireprojects/public_html/test/watson/advanceprojectsearch.php on line 254
+[31-Aug-2017 11:58:24 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/zaireprojects/public_html/test/watson/header.php on line 105
+[31-Aug-2017 12:00:30 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/zaireprojects/public_html/test/watson/header.php on line 105
+[31-Aug-2017 12:06:12 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/zaireprojects/public_html/test/watson/header.php on line 105
+[31-Aug-2017 12:11:37 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/zaireprojects/public_html/test/watson/header.php on line 105
