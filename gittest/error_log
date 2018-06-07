@@ -1,0 +1,47 @@
+[21-Feb-2017 11:02:32 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/zaireprojects/public_html/test/gittest/gitpostreturn.php on line 14
+[21-Feb-2017 11:03:15 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/zaireprojects/public_html/test/gittest/gitpostreturn.php on line 14
+[21-Feb-2017 11:04:23 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/zaireprojects/public_html/test/gittest/gitpostreturn.php on line 14
+[21-Feb-2017 11:13:30 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/zaireprojects/public_html/test/gittest/gitpostreturn.php on line 18
+[21-Feb-2017 11:16:52 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/zaireprojects/public_html/test/gittest/gitpostreturn.php on line 18
+[21-Feb-2017 11:17:04 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/zaireprojects/public_html/test/gittest/gitpostreturn.php on line 18
+[21-Feb-2017 11:33:06 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/zaireprojects/public_html/test/gittest/gitpostreturn.php on line 19
+[21-Feb-2017 11:34:10 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/zaireprojects/public_html/test/gittest/gitpostreturn.php on line 19
+[21-Feb-2017 11:56:30 UTC] PHP Parse error:  syntax error, unexpected '$dataen' (T_VARIABLE) in /home/zaireprojects/public_html/test/gittest/gitlogin.php on line 60
+[21-Feb-2017 12:36:34 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/zaireprojects/public_html/test/gittest/gitlogin.php on line 55
+[21-Feb-2017 13:35:59 UTC] PHP Parse error:  syntax error, unexpected '.', expecting ')' in /home/zaireprojects/public_html/test/gittest/gitlogin.php on line 76
+[22-Feb-2017 09:49:36 UTC] PHP Parse error:  syntax error, unexpected '"=>"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/zaireprojects/public_html/test/gittest/gitcreatefile.php on line 8
+[22-Feb-2017 12:28:52 UTC] PHP Parse error:  syntax error, unexpected ''files'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/zaireprojects/public_html/test/gittest/githome.php on line 9
+[22-Feb-2017 12:52:26 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/zaireprojects/public_html/test/gittest/gitcreatefile.php on line 8
+[22-Feb-2017 12:53:37 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/zaireprojects/public_html/test/gittest/gitcreatefile.php on line 11
+[23-Feb-2017 06:59:08 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/zaireprojects/public_html/test/gittest/githome.php on line 38
+[23-Feb-2017 06:59:34 UTC] PHP Parse error:  syntax error, unexpected 'curl_setopt' (T_STRING) in /home/zaireprojects/public_html/test/gittest/githome.php on line 42
+[23-Feb-2017 07:00:22 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/zaireprojects/public_html/test/gittest/githome.php on line 44
+[23-Feb-2017 07:01:55 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/zaireprojects/public_html/test/gittest/githome.php on line 44
+[23-Feb-2017 07:01:57 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/zaireprojects/public_html/test/gittest/githome.php on line 44
+[23-Feb-2017 07:02:00 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/zaireprojects/public_html/test/gittest/githome.php on line 44
+[23-Feb-2017 07:02:03 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/zaireprojects/public_html/test/gittest/githome.php on line 44
+[23-Feb-2017 10:18:28 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/zaireprojects/public_html/test/gittest/githome.php on line 42
+[23-Feb-2017 10:23:11 UTC] PHP Fatal error:  Call to undefined function get() in /home/zaireprojects/public_html/test/gittest/githome.php on line 15
+[23-Feb-2017 10:37:56 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/zaireprojects/public_html/test/gittest/gitcreatefile.php on line 16
+[23-Feb-2017 10:54:16 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/zaireprojects/public_html/test/gittest/gitcreatetest.php on line 20
+[23-Feb-2017 11:11:39 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/zaireprojects/public_html/test/gittest/gitcreatetest.php on line 20
+[23-Feb-2017 11:12:04 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/zaireprojects/public_html/test/gittest/gitcreatetest.php on line 20
+[23-Feb-2017 11:31:47 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/zaireprojects/public_html/test/gittest/gitcreatetest.php on line 10
+[23-Feb-2017 11:33:18 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/zaireprojects/public_html/test/gittest/gitcreatetest.php on line 10
+[23-Feb-2017 11:33:21 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/zaireprojects/public_html/test/gittest/gitcreatetest.php on line 10
+[23-Feb-2017 11:33:31 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/zaireprojects/public_html/test/gittest/gitcreatetest.php on line 10
+[23-Feb-2017 11:36:11 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/zaireprojects/public_html/test/gittest/gitcreatetest.php on line 10
+[23-Feb-2017 11:47:43 UTC] PHP Parse error:  syntax error, unexpected '"sha"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/zaireprojects/public_html/test/gittest/githome.php on line 51
+[23-Feb-2017 11:48:18 UTC] PHP Parse error:  syntax error, unexpected '"sha"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/zaireprojects/public_html/test/gittest/githome.php on line 51
+[23-Feb-2017 11:48:21 UTC] PHP Parse error:  syntax error, unexpected '"sha"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/zaireprojects/public_html/test/gittest/githome.php on line 51
+[23-Feb-2017 11:48:43 UTC] PHP Parse error:  syntax error, unexpected '"sha"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/zaireprojects/public_html/test/gittest/githome.php on line 51
+[23-Feb-2017 11:55:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/zaireprojects/public_html/test/gittest/githome.php on line 57
+[23-Feb-2017 12:16:25 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/zaireprojects/public_html/test/gittest/gitupdatetest.php on line 10
+[23-Feb-2017 12:22:33 UTC] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/zaireprojects/public_html/test/gittest/gitupdatetest.php on line 10
+[03-Mar-2017 07:33:09 UTC] PHP Parse error:  syntax error, unexpected '$ch' (T_VARIABLE) in /home/zaireprojects/public_html/test/gittest/gitteam.php on line 9
+[03-Mar-2017 07:44:47 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/zaireprojects/public_html/test/gittest/gitteam.php on line 16
+[03-Mar-2017 09:56:03 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/zaireprojects/public_html/test/gittest/gitpages.php on line 40
+[03-Mar-2017 10:02:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/zaireprojects/public_html/test/gittest/gitpages.php on line 42
+[03-Mar-2017 10:02:44 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/zaireprojects/public_html/test/gittest/gitpages.php on line 43
+[03-Mar-2017 10:11:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zaireprojects/public_html/test/gittest/gitpages.php on line 42
+[21-Apr-2017 09:47:46 UTC] PHP Parse error:  syntax error, unexpected 'state' (T_STRING), expecting ')' in /home/zaireprojects/public_html/test/gittest/gitlogin.php on line 38

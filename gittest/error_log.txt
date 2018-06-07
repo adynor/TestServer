@@ -1,0 +1,2 @@
+[21-Feb-2017 11:02:32 UTC] PHP Warning:  curl_setopt() expects parameter 1 to be resource, null given in /home/zaireprojects/public_html/test/gittest/gitpostreturn.php on line 14
+
