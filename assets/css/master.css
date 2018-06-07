@@ -1,0 +1,248 @@
+/* 
+    Document   : master.css
+    Created on : Feb 3, 2016, 5:11:44 PM
+    Author     : AdynorTech
+    Description: Purpose of the stylesheet follows.
+*/
+
+.ady-badge {
+  display: inline-block;
+  min-width: 10px;
+  padding: 3px 7px;
+  font-size: 12px;
+  font-weight: 0px;
+  line-height: 1;
+  color: #fff;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  background-color: #2196F3;
+    border-radius: 15px;
+    margin-bottom: 6px;
+    margin-left: -7px;
+  
+}
+
+
+/*.ady-btn{ 
+   width:100%;
+   background-color: rgb(45, 112, 128);
+}*/
+
+.ady-btn{
+    width: 300px;
+    height: 50px;
+    font-weight:bold;
+    color: rgb(45, 112, 128);
+/*        background-color: rgb(45, 112, 128);*/
+/*	background-color:#c81d6b;*/
+	background-color:#cdcbc7;
+        box-shadow: 5px 5px 5px rgba(118, 142, 162, 0.79);
+    border-color: gray;
+    border-style: solid;
+    border-width: 2px;
+
+}
+
+.ady-btn:hover{
+/*background-color:#e54c92;*/
+background-color: rgb(89, 188, 217);
+
+
+}
+
+.ady-row{
+    margin:10px auto;
+    
+}
+
+.ady-container
+{
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: auto;
+  max-width :1000px;
+  margin-top: 20px; 
+}
+
+
+.ady-table-dashboard th:first-child {
+ 
+    background: #337AB7;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-family: monospace;
+    
+}
+
+    /*  Define the background color for all the ODD table columns  */
+.ady-table-dashboard tr:nth-child(odd){ 
+background: #ffffff;
+               color: #221E44;
+               
+}
+/*  Define the background color for all the EVEN table columns  */
+.ady-table-dashboard tr:nth-child(even){
+background: #dae5f4;
+               color: #221E44;
+               
+}
+
+.ady-table-dashboard,.ady-table-dashboard th,.ady-table-dashboard td 
+{
+ 
+     font-size: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:7px;
+
+
+}
+
+
+
+.ady-table-content th {
+    text-align: center;
+    background: #337AB7;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-family: monospace;
+    
+}
+
+    /*  Define the background color for all the ODD table columns  */
+.ady-table-content tr:nth-child(odd){ 
+background: #ffffff;
+               color: #221E44;
+               
+}
+/*  Define the background color for all the EVEN table columns  */
+.ady-table-content tr:nth-child(even){
+background: #dae5f4;
+               color: #221E44;
+               
+}
+
+.ady-table-content,.ady-table-content th,.ady-table-content td 
+{
+ 
+     font-size: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:7px;
+        border-color: rgba(34, 36, 39, 0.05);
+
+}
+
+
+.dropdown-toggle option{
+    background-color: skyblue;
+}
+
+
+.navbar-toggle .icon-bar {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background-color: #cccccc;
+  border-radius: 1px;
+}
+
+
+h1 {
+  font-size: 5.9vw;
+}
+h2 {
+  font-size: 3.0vh;
+}
+p {
+ 
+  color:brown;
+  margin-bottom: 0px;
+  
+}       
+
+.ady-logged-in{
+    font-size: 16px;
+    color: #4682b4;
+    font-family: -webkit-body;
+}
+.ady-cus-btn{
+    padding: 9px 50px;
+    border-radius: 10px;
+}
+
+.ady-req-btn{
+    padding: 5px 20px;
+    border-radius: 10px;
+    
+}
+
+
+.ady-form{
+border-radius: 14px;
+border-color: rgba(9, 99, 99, 0.78);
+}
+
+.twitter_middle {
+    width: 100%;
+    height: 166px;
+    overflow-y: scroll;
+}
+.chat-position{
+     position: fixed;
+    width: 58px;
+    /* bottom: 50px; */
+    top: 171px;
+    
+    height: 193px;
+    background: rgba(45, 112, 128, 0.53);
+}
+.chat-position p{
+   margin-top: 20px;
+    margin-left: 19px;
+    font-size: 27px;
+    color: #ffffff;
+}
+.chat-left{
+    border-radius: 2px 30px 30px 2px;
+    left: 10px;
+}
+.chat-right{
+    right: 10px;
+    border-radius: 30px 2px 2px 30px;
+}
+.current_project_details{
+    padding: 10px;
+    background-color: whitesmoke;
+    color: black;
+    width: 300px;
+    height: auto;
+    position: fixed;
+    top: 190px;
+    border-left: 4px solid green;
+     /* height: 300px; */
+    overflow-y: scroll;
+}
+.current_project {
+
+       padding: 10px;
+    background-color: #5FB6AB;
+    /*color: white;*/
+    width: 200px;
+    height: 40px;
+    position: fixed;
+    top: 150px;
+   /* border-left: 4px solid red;*/
+        cursor: pointer;
+  
+}
+.current_project a {
+    color: #FFFFFF;
+    font-size: 20px;
+}
+current_project:hover {
+    width: 300px;
+}

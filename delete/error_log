@@ -1,0 +1,6 @@
+[07-Jun-2016 08:26:55 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: YES) in /home/zaireprojects/public_html/test/Delete/DeleteTest.php on line 23
+[07-Jun-2016 08:26:55 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/zaireprojects/public_html/test/Delete/DeleteTest.php on line 24
+[20-Sep-2016 14:47:34 UTC] PHP Parse error:  syntax error, unexpected ''.$userid.'' (T_CONSTANT_ENCAPSED_STRING) in /home/zaireprojects/public_html/test/delete/DeleteTest.php on line 34
+[20-Sep-2016 14:47:58 UTC] PHP Parse error:  syntax error, unexpected ''.$userid.'' (T_CONSTANT_ENCAPSED_STRING) in /home/zaireprojects/public_html/test/delete/DeleteTest.php on line 34
+[20-Sep-2016 14:48:03 UTC] PHP Parse error:  syntax error, unexpected ''.$userid.'' (T_CONSTANT_ENCAPSED_STRING) in /home/zaireprojects/public_html/test/delete/DeleteTest.php on line 34
+[20-Sep-2016 14:48:06 UTC] PHP Parse error:  syntax error, unexpected ''.$userid.'' (T_CONSTANT_ENCAPSED_STRING) in /home/zaireprojects/public_html/test/delete/DeleteTest.php on line 34
